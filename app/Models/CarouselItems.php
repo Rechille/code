@@ -5,6 +5,9 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
+
+//representation of our table : MODELS
+
 class CarouselItems extends Model
 {
     use HasFactory;
